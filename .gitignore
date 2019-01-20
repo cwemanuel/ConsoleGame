@@ -1,0 +1,12 @@
+
+*.lock
+*.ide
+*.ide-shm
+*.ide-wal
+*.cache
+CS3110 Project 1/CS3110 Project 1/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+CS3110 Project 1/CS3110 Project 1/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+CS3110 Project 1/CS3110 Project 1/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+CS3110 Project 1/CS3110 Project 1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+CS3110 Project 1/CS3110 Project 1/obj/Debug/CS3110 Project 1.csproj.CoreCompileInputs.cache
+CS3110 Project 1/.vs/CS3110 Project 1/v15/.suo
