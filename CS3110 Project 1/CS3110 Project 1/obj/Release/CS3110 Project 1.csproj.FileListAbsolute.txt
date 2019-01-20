@@ -1,0 +1,6 @@
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\bin\Release\CS3110 Project 1.exe.config
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\bin\Release\CS3110 Project 1.exe
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\bin\Release\CS3110 Project 1.pdb
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\obj\Release\CS3110 Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\obj\Release\CS3110 Project 1.exe
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\obj\Release\CS3110 Project 1.pdb

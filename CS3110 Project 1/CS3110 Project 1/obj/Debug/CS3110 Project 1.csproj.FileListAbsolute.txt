@@ -1,0 +1,43 @@
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe.config
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.pdb
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.exe
+C:\Users\Tony Gruff\Desktop\Prog\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.pdb
+C:\Users\acw97420\Documents\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe.config
+C:\Users\acw97420\Documents\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.exe
+C:\Users\acw97420\Documents\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.pdb
+C:\Users\acw97420\Documents\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe
+C:\Users\acw97420\Documents\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.pdb
+C:\Users\acw97420\Documents\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Carl\Documents\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe.config
+C:\Users\Carl\Documents\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.exe
+C:\Users\Carl\Documents\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.pdb
+C:\Users\Carl\Documents\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe
+C:\Users\Carl\Documents\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.pdb
+C:\Users\Carl\Documents\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Tony Gruff\Desktop\Prog\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe.config
+C:\Users\Tony Gruff\Desktop\Prog\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.exe
+C:\Users\Tony Gruff\Desktop\Prog\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.pdb
+C:\Users\Tony Gruff\Desktop\Prog\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe
+C:\Users\Tony Gruff\Desktop\Prog\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.pdb
+C:\Users\Tony Gruff\Desktop\Prog\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.csprojResolveAssemblyReference.cache
+M:\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe.config
+M:\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.exe
+M:\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.pdb
+M:\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe
+M:\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.pdb
+M:\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.csprojResolveAssemblyReference.cache
+E:\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe.config
+E:\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.exe
+E:\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.pdb
+E:\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe
+E:\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.pdb
+E:\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.csprojResolveAssemblyReference.cache
+E:\School Things\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe.config
+E:\School Things\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.exe
+E:\School Things\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\bin\Debug\CS3110 Project 1.pdb
+E:\School Things\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.csprojAssemblyReference.cache
+E:\School Things\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.csproj.CoreCompileInputs.cache
+E:\School Things\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.exe
+E:\School Things\UCM\Fall '16\C#\CS3110 Project 1\CS3110 Project 1\obj\Debug\CS3110 Project 1.pdb
